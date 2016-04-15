@@ -1,0 +1,183 @@
+/*font-family: 'Shadows Into Light', cursive;
+ font-family: 'Indie Flower', cursive;
+ font-family: 'Lobster', cursive;
+ font-family: 'Limelight', cursive;
+ font-family: 'Bree Serif', serif;
+ font-family: 'Berkshire Swash', cursive;
+*/
+
+#contenidos{
+	width: 1100px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	
+
+}
+
+
+/*ETIQUETAS*/
+body{
+background-image: url(../img/fondo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+h1{
+font-family: 'Lobster', cursive;
+color: #0080FF;
+margin-left: 10px;
+font-size: 50px;
+text-align: center; 
+}
+
+h2{
+font-family: 'Limelight', cursive;
+color: black;
+margin-left: 10px;
+font-size: 35px;
+text-align: center; 
+}
+
+h3{
+font-family: 'Bree Serif', cursive;;
+color: #0B6138;
+font-size: 25px;
+text-align: center; 
+}
+
+h4{
+font-family: 'Berkshire Swash', cursive;;
+color: #0000FF;
+argin-left: 10px;
+font-size: 20px;
+text-align: center; 
+}
+
+h5{
+font-family: 'Bree Serif', cursive;;
+color: black;
+argin-left: 10px;
+font-size: 30px;
+text-align: center; 
+}
+
+
+header{
+	width: 1100px;
+	height: 120 px;
+	background: none;
+}
+
+nav{
+width: 1100px;
+height: 50px;
+background: teal;
+border-radius: 10px;
+
+}
+ul{
+margin: auto;
+padding-top: 5px;
+}
+
+ul.menu li 
+
+{
+  background: #F4F4F4;
+  border-bottom: 1px solid #7C7C7C;
+  border-top: 1px solid #FFF;
+}
+
+li{
+	float: left;
+	list-style-type: none;
+	padding: 11px;
+	background: yellow;
+	margin: 3px;
+	border-radius: 12px;
+	box-shadow: 0 0 15px blue inset; 
+
+}
+
+
+
+section{
+	width: 800px;
+	background: #EFF5FB;
+	height: 1200px;
+	float: left;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+aside{
+
+	width: 280px;
+	background: beige;
+	height: 1200px;
+	float: left;
+	margin-left: 0px;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+
+footer {
+	background: #c0c0c0;
+	text-align:center;
+	padding:25px 0 0 0;
+	height:67px}
+
+footer a {color:#c0c0c0}
+
+p{
+
+	font-size: 17px;
+	font-weight: Serif;
+	line-height: 26px;
+	padding: 12px;
+	text-align: justify;
+	color:black;
+}
+
+
+
+IMG.imgcenter{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border:none;
+      }
+
+
+
+
+
+/*CLASES*/
+
+.ancho_menu_home{width: 1000px;}
+.ancho_menu_paginas{width: 1070px;}
+
+.menu:link{color: blue; text-decoration: none;}
+.menu:visited{color: blue; text-decoration: none;}
+.menu:hover{color: blue; text-decoration: none; text-shadow: 0 0 13px white;}
+.menu:active{color: black; text-decoration: none;}
+
+/*SEUDO CLASES*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
